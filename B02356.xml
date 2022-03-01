@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Constant Cloris: or, Her lamentation for Mirtillo. Who was killed in Ireland, before he was married to her, and she for grief and dispair stabbed her self. To the tune of, Celia that I once was blest. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02356</idno>
+            <idno type="STC">Wing C5940</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.39.k.6[23]</idno>
+            <idno type="EEBO-CITATION">99887400</idno>
+            <idno type="PROQUEST">ocm99887400</idno>
+            <idno type="VID">182109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182109)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:1[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Constant Cloris: or, Her lamentation for Mirtillo. Who was killed in Ireland, before he was married to her, and she for grief and dispair stabbed her self. To the tune of, Celia that I once was blest. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby at the Golden Ball in Pye-Corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher's name, place and date of publication from Wing.</note>
+                  <note>Verse: "Cloris in a mirtle grove ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182109:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>Conſtant CLORIS OR, <hi>Her lamentation for <hi>Mirtillo.</hi>
+               </hi> Who was killed in <hi>Ireland,</hi> before he was Married to her, and ſhe for Grief and Diſpair ſtabbed her ſelf.</head>
+            <opener>To the Tune of, <hi>Celia that I once was bleſt.</hi>
+            </opener>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <lg n="1">
+               <head>1.</head>
+               <l>
+                  <hi>CLoris</hi> in a Mirtle Grove,</l>
+               <l>Sat bemoaning of her love</l>
+               <l>To the Turtles, on the mirtles,</l>
+               <l>Pearching on the twigs above;</l>
+               <l>She unto them thus lay crying,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come and ſee a Lover dying.</hi>
+                  </l>
+                  <l>
+                     <hi>She unto,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>My <hi>Mirtillo</hi> he is dead,</l>
+               <l>His ſoul to the <hi>Elezium</hi>'s fled,</l>
+               <l>You that Cooing ſet and Wooing,</l>
+               <l>View me on my gloomy Bed;</l>
+               <l>O kind Death thy dart is killing,</l>
+               <l>And my ſoul with ſorrows filling.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O kind,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>I implore thee make me bleſt,</l>
+               <l>Rob no more my ſoul of reſt,</l>
+               <l>For delaying's worſe than ſtaying,</l>
+               <l>waſt me to <hi>Mirtillo</hi>'s breaſt;</l>
+               <l>O <hi>Mirtillo</hi> where thou'rt roaming,</l>
+               <l>My impatient ſoul is coming.</l>
+               <lg type="refrain">
+                  <l>O Mirtillo, &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>Dear <hi>Mirtillo</hi> is withdrawn</l>
+               <l>To an Everlaſting dawn,</l>
+               <l>He hath left me, and bereſt me</l>
+               <l>Of thoſe Eyes I doted on;</l>
+               <l>But I will not ſtay behind him,</l>
+               <l>I will ſeek him till I find him.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But I will,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>I'll purſue his lovely Ghoſt,</l>
+               <l>And ruſh among the Crying Hoſt,</l>
+               <l>Ne're abhor him, but ſeek for him</l>
+               <l>On the ſweet <hi>Elezium</hi> Coaſt,</l>
+               <l>For <hi>Mirtillo</hi> I'll Enquire,</l>
+               <l>By my looks diſplay my ſire,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For</hi> Mirtillo, &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>My hated hours ſlowly paſs,</l>
+               <l>Come Death diſſolve this loathſom maſs</l>
+               <l>Time is mowing, hours going,</l>
+               <l>Yet there's minutes in my glaſs,</l>
+               <l>But <hi>Mirtillo</hi> I will ſhake it,</l>
+               <l>For revenge my ſelf will break it,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But</hi> Mirtillo, &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>My eager ſoul ſhall paſs away,</l>
+               <l>To live in Everlaſting Day,</l>
+               <l>My <hi>Mirtilo,</hi> by the willow,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Does bewail my tedious ſtay,</l>
+               <l>Love does always hate delaying,</l>
+               <l>Where 'tis fixt is no gainſaying.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Love does,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Then a bloody knife ſhe took,</l>
+               <l>And with a gaſhly dying look,</l>
+               <l>Her heart ſhe pierced, love rehearſed,</l>
+               <l>And this life ſhe ſoon forſook,</l>
+               <l>Weltering in her gore ſhe cryed,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Dear</hi> Mirtillo, and ſo died.</l>
+                  <l>
+                     <hi>Weltering in her,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Fortune had no ſooner fround,</l>
+               <l>And ſhe receiv'd the fatal Wound,</l>
+               <l>But the Turtles on the Mirtles,</l>
+               <l>Was with grief incompaſt round,</l>
+               <l>And the ſmall Birds mournful ſinging,</l>
+               <l>Was her Paſing-Bell then ringing.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And the,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby</hi> at the <hi>Golden Ball</hi> in <hi>Pye-Corner.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
